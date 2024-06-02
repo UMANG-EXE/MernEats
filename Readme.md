@@ -90,7 +90,7 @@ MERNeats is an online food ordering application built with the MERN stack and Ty
 
 ## Screenshots
 
-*Include screenshots of your app here.*
+![order status deliveres-10](https://github.com/UMANG-EXE/MernEats/assets/134010626/a96dcb03-7f39-4c2d-a881-fe958742ab02)
 
 ## Contact
 
