@@ -1,5 +1,5 @@
 
-# MERNeats
+# MernEats
 
 MERNeats is an online food ordering application built with the MERN stack and TypeScript. The app allows users to order food from their favorite restaurants by searching for restaurants by name or location. Users can check out and track their order status. Restaurant owners can manage their restaurant's profile, add descriptions, upload images, list food items, and update order statuses. The app uses Okta for authentication, ShadCN/UI for the user interface, Cloudinary for cloud image storage, and Stripe for payments.
 
