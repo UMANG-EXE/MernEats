@@ -90,7 +90,30 @@ MERNeats is an online food ordering application built with the MERN stack and Ty
 
 ## Screenshots
 
-![order status deliveres-10](https://github.com/UMANG-EXE/MernEats/assets/134010626/a96dcb03-7f39-4c2d-a881-fe958742ab02)
+**Homepage**
+![homepage-1](https://github.com/UMANG-EXE/MernEats/assets/134010626/d1b472ce-e5b2-4852-9dbf-0dbb8ba7f4aa)
+**User Profile Page**
+![User-Pofile Page-2](https://github.com/UMANG-EXE/MernEats/assets/134010626/cb702ee7-65c8-48c0-a87f-9c0925babc6f)
+**Restaurant Page**
+![Restaurants Page-3](https://github.com/UMANG-EXE/MernEats/assets/134010626/dbebfb08-19d0-4fa7-bd76-b08152dce2ce)
+**Restaurant Main Page**
+![restaurant-main page-4](https://github.com/UMANG-EXE/MernEats/assets/134010626/2faea44c-faed-4146-ab02-27e60767a01f)
+**Confirm Address Page**
+![confirm address page-5](https://github.com/UMANG-EXE/MernEats/assets/134010626/36e7c6a8-bffc-493d-ba04-01f6906fb092)
+**Payment Gateway**
+![payment gatway-6](https://github.com/UMANG-EXE/MernEats/assets/134010626/5a61b07b-9641-4624-82c9-cd0d8453bc5c)
+**Order Status for Customers**
+![order status for customer-7](https://github.com/UMANG-EXE/MernEats/assets/134010626/ca59395d-95fe-404f-a907-a9a19377f862)
+**Manage Restaurant 1**
+![manage restaurant  1 -8](https://github.com/UMANG-EXE/MernEats/assets/134010626/74d64e3e-eac8-4371-b3be-f71280df6bd6)
+**Manage Restaurant 2**
+![manage restaurant  2 -8](https://github.com/UMANG-EXE/MernEats/assets/134010626/b10add95-8678-4a25-8d58-d86cb2fc59b0)
+**Manage Restaurant 3**
+![manage restaurant  3 -8](https://github.com/UMANG-EXE/MernEats/assets/134010626/09aa7745-db3e-4a00-a8b2-4317ce0d350d)
+**Homepage**
+![update status-9](https://github.com/UMANG-EXE/MernEats/assets/134010626/7f07a7e0-df65-4e49-9eda-1ab6f3fd2477)
+**Update Status**
+![order status deliveres-10](https://github.com/UMANG-EXE/MernEats/assets/134010626/b74ee9e0-054a-4112-a305-1bffb18f6bd1)
 
 ## Contact
 
